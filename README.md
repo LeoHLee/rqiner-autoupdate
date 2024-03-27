@@ -6,7 +6,7 @@ Scripts for keeping rqiner the latest version
 
 ### Windows
 
-下载`start.bat` | Download `start.bat`
+下载[start.bat](https://github.com/LeoHLee/rqiner-autoupdate/blob/main/start.bat) | [start.bat](https://github.com/LeoHLee/rqiner-autoupdate/blob/main/start.bat)
 
 右键编辑，修改配置 | Change the following values in the script
 
