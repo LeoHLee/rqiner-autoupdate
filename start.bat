@@ -57,7 +57,7 @@ curl -s -o "%rqiner_dir%\%executable%.new" -L https://github.com/Qubic-Solutions
 if %errorlevel% neq 0 (
     timeout /t %retryDelay% >nul
     set /a "retryDelay*=2"
-    goto :installLoop
+    goto :mainLoop
 )
 set "retryDelay=15"
 
